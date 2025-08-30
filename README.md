@@ -26,8 +26,9 @@ Visualizations: Display total trips by location, day, and time with relevant cha
 KPIs Display: Showcase the key metrics such as total trips, fare, duration, and distance prominently.
 Interactive Elements: Use slicers, filters, and dynamic visuals to make the dashboard interactive and user-friendly.
 
+## Dashboard for Uber Analysis
 
-
+<img width="1780" height="812" alt="Uber report" src="https://github.com/user-attachments/assets/63b1fc72-10ee-44ee-a316-51aa87800482" />
 
 
 ## Conclusion: Key Insights Derived from Dashboard
